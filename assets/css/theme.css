@@ -1,0 +1,228 @@
+/* 
+--------------------------------------------------
+CUSTOMISE THE NAVBAR
+-------------------------------------------------- 
+
+
+.navbar-brand>img{
+   margin-top:-10px;
+}
+.navbar{
+    margin-bottom: 0px;
+    border-radius: 0px;
+}
+.navbar-nav .contact{
+    color: white;
+    font-size:1.6em;
+}
+
+.navbar-nav .facebook >img {
+    opacity: 0.55;
+    width:1.5em;
+    height: auto;
+}
+
+.navbar-nav .facebook >img:hover {
+    opacity: 1.0;
+}
+
+.navbar-right > li >a {
+    padding-left:20px;
+     padding-right:0;
+    padding-top:13px;
+    padding-bottom: 0px;
+}
+
+.navbar .facebook {
+    -webkit-transition: opacity ease-out 0.1s;
+    -moz-transition: opacity ease-out 0.1s;
+    -o-transition: opacity ease-out 0.1s;
+    transition: opacity ease-out 0.1s;
+}
+
+*/
+
+
+/* 
+--------------------------------------------------
+CUSTOMISE THE CAROUSEL
+-------------------------------------------------- 
+*/
+
+.carousel .item  {
+	background-size: cover;
+    background-position: center;
+    background-attachment: center;
+    background-repeat: no-repeat;
+	text-align: center;
+    height:400px;
+    padding:100px
+
+}
+.carousel .item {
+    -webkit-transition: opacity 3s; 
+    -moz-transition: opacity 3s; 
+    -ms-transition: opacity 3s; 
+    -o-transition: opacity 3s; 
+    transition: opacity 3s;
+}
+.carousel .active.left {
+    left:0;
+    opacity:0;
+    z-index:2;
+}
+.carousel .next {
+    left:0;
+    opacity:1;
+    z-index:1;
+}
+
+.logo-center{
+   	display: table;
+    text-align: center;
+    margin:0 auto;
+    top:100px;
+    position: absolute;
+    z-index: 100;
+    float: left;
+    width: 100%;
+}
+
+.logo-wrapper {
+    height:180px;
+    width:180px;
+    display:inline-block;
+    float: clear;
+    padding: 7px;
+    background-color: black;
+    border: 3px solid;
+    border-color: white;
+
+}
+.logo-wrapper img{
+    width:160px;
+    height:160px;
+}
+
+
+
+
+
+
+
+/* 
+--------------------------------------------------
+CUSTOM PANELS
+-------------------------------------------------- 
+*/
+
+
+.panel-heading-crown{
+    background-image:url('/assets/images/crown-black.png');
+    background-repeat:  no-repeat;
+    width:25px;
+    height:23px;
+    display: inline-block;
+    float:left;
+    padding-right:30px;
+    margin-top:-5px;
+    
+}
+
+
+/*======= GREEN ======== */
+.panel-pastelgreen {
+  border-color: #7c9478;
+}
+.panel-pastelgreen > .panel-heading {
+  color: #fff;
+  background-color: #7c9478 ;
+  border-color: #7c9478 ;
+}
+.panel-pastelgreen > .panel-heading + .panel-collapse .panel-body {
+  border-top-color: #7c9478 ;
+}
+.panel-pastelgreen > .panel-footer + .panel-collapse .panel-body {
+  border-bottom-color: #7c9478 ;
+}
+
+
+/*======= RED ======== */
+.panel-pastelred {
+  border-color: #c52c2c ;
+}
+.panel-pastelred > .panel-heading {
+  color: #fff;
+  background-color: #c52c2c  ;
+  border-color: #c52c2c  ;
+}
+.panel-pastelred > .panel-heading + .panel-collapse .panel-body {
+  border-top-color: #c52c2c  ;
+}
+.panel-pastelred > .panel-footer + .panel-collapse .panel-body {
+  border-bottom-color: #c52c2c  ;
+}
+
+
+/*======= GREY ======== */
+.panel-pastelgrey {
+  border-color: #666666  ;
+}
+.panel-pastelgrey > .panel-heading {
+  color: #fff;
+  background-color: #666666   ;
+  border-color: #666666   ;
+}
+.panel-pastelgrey > .panel-heading + .panel-collapse .panel-body {
+  border-top-color: #666666   ;
+}
+.panel-pastelgrey > .panel-footer + .panel-collapse .panel-body {
+  border-bottom-color: #666666   ;
+}
+
+
+
+
+
+
+/* 
+--------------------------------------------------
+SECTIONS
+-------------------------------------------------- 
+*/
+
+
+.section {
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+
+.section-heading {
+	font-size: 4em;
+	margin: 30px 0;
+}
+
+.section-lead {
+	margin: 30px 0;
+}
+
+.section-paragraph {
+	margin: 30px 0;
+}
+
+#footer > .container {
+	padding-top:5px;
+}
+
+@media (max-width: 768px) {
+
+    .section-heading {
+        font-size: 2em;
+    }
+
+    .section {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+}
