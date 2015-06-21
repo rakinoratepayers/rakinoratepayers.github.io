@@ -1,0 +1,116 @@
+---
+layout: default
+title: Register
+permalink: /Register/
+customjs: 
+- //ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js
+- //ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/additional-methods.js
+- /assets/js/register.js
+---
+
+<h1>Registration</h1>
+
+<div class="row">
+   <div class="col-md-8 col-md-offset-2">
+    <span class="label label-warning" style:"width:100%">Warning - This form is still under development and is not yet functional</span>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-8 col-md-offset-2 well">
+<form id="signupform" autocomplete="off" method="post" action="" class="form-horizontal">
+
+    <div class="form-group">
+        <div class="checkbox">
+            <label>
+               <input type="checkbox" name="is-renewal" id="is-renewal"> Is this a membership renewal? 
+            </label>
+        </div>
+        <p class="help-block">
+            Only your name is required if you are already a member. You can update your contact information if necessary.
+        </p>
+    </div>
+    
+    <!--
+    <span class="glyphicon glyphicon-ok form-control-feedback" aria-hidden="true"></span>
+    <span class="glyphicon glyphicon-warning-sign form-control-feedback" aria-hidden="true"></span>
+    <span class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
+    -->
+    <div class="form-group">
+        <label for="applicant-name" class="control-label">Name of Applicant</label>
+        <input id="applicant-name" name="applicant-name" class="form-control" type="text" value="" maxlength="100" >
+        <span class="form-control-feedback" aria-hidden="true"></span>
+    </div>
+    
+    <div class="form-group">
+        <label for="address-rakino" class="control-label">Address/Property of Rakino</label>
+        <textarea id="address-rakino" name="address-rakino" class="form-control" ></textarea>
+        <span class="form-control-feedback" aria-hidden="true"></span>
+    </div>
+    
+    <div class="form-group">
+        <label for="contact-phone" class="control-label">Your Preferred Contact Phone Number</label>
+        <input id="contact-phone" name="contact-phone" class="form-control" type="tel" value="" maxlength="100" >
+        <span class="form-control-feedback" aria-hidden="true"></span>
+    </div>
+    
+    <div class="form-group">
+        <label for="contact-email" class="control-label">Your Preferred Contact Email Address</label>
+        <div class="input-group">
+          <span class="input-group-addon">@</span>
+          <input type="text" class="form-control" id="contact-email" name="contact-email" >
+        </div>
+        <span class="form-control-feedback" aria-hidden="true"></span>
+    </div>
+    
+    <div class="form-group">
+        <label for="contact-email" class="control-label">Address for Postal Correspondence (other than Rakino)</label>
+        <textarea id="address-postal" name="address-postal" class="form-control" ></textarea>
+        <span class="form-control-feedback" aria-hidden="true"></span>
+    </div>
+
+    
+    <div class="form-group">
+        <label for="payment-method" class="control-label">Payment Method</label>
+        <div class="radio">
+            <label><input type="radio" name="payment-method" id="payment-method1" value="cheque">Cheque</label>
+        </div>
+        <div class="radio">
+            <label><input type="radio" name="payment-method" id="payment-method2" value="internet-banking">Internet Banking</label>
+        </div>
+        <span class="form-control-feedback" aria-hidden="true"></span>
+    </div>
+    
+    <div class="form-group">
+        <input id="signupsubmit" name="signup" type="submit" value="Signup" class="btn btn-primary btn-lg">
+    </div>
+</form>
+</div>
+</div>
+
+
+<h2>Annual Subscription</h2>
+<p>The Annual Subscription to RRA is just $30 pa.</p>
+
+
+<h2>Payment Instructions</h2>
+
+<p>Payment can be made by cheque, payable to </p>
+
+<pre>
+Rakino Ratepayers Association Inc. 
+c/o Secretary
+PO Box 106-703 
+Commerce St 
+Auckland 1072
+</pre> 
+
+    
+<p>or by electronic bank transfer direct to our ASB account:</p>
+  
+<pre>
+Account Number:     12-3037-0395345-00
+Particulars:        enter the word “Sub”
+Reference:          your "Surname"
+</pre>
+
+
