@@ -7,6 +7,10 @@ permalink: /Membership/
 
 #Membership
 
+
+## Join RRA
+join us!
+
 ##Annual Subscription
 The Annual Subscription to RRA is just $30 pa.
 
