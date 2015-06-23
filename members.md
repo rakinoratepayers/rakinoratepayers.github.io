@@ -8,12 +8,12 @@ topnav: 30
 
 #Members
 
-If you would like to join RRA or renew your supscription please [register](#).
+If you would like to join RRA or renew your supscription please [register](/Register/).
 
 
 ##Newsletters
 
-News letters are produced quarterly and are emailed to all members. Newsletters are archived here after six months.
+Newsletters are produced quarterly and are emailed to all members. Newsletters are archived here after six months.
 
 - [December 2014 (PDF)](/assets/newsletters/RRA_Newsletter_2014_12.pdf)
 

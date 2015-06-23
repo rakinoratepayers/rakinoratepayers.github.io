@@ -2,87 +2,105 @@
     "use strict";
     $(document).ready(function () {
         
-        function isRenewal() {
-            return $("#is-renewal").is(":checked");
+        function isNewRegistration() {
+            return $("#signupform input[name='registration_type']:checked").val() === $("#signupform #registration_type_new").val();
         }
 
 		// validate signup form on keyup and submit
 		var validator = $("#signupform").validate({
+            ignore: "",
 			rules: {
-				"applicant-name": "required",
-				"address-rakino": {
+                "registration_type": "required",
+				"applicant_name": "required",
+				"address_rakino": {
                     required: {
                         depends: function (element) {
-                            return (!isRenewal());
+                            return (isNewRegistration());
                         }
                     }
                 },
-                "contact-phone": {
+                "contact_phone": {
                     required: {
                         depends: function (element) {
-                            return (!isRenewal());
+                            return (isNewRegistration());
                         }
                     }
                 },
-                "contact-email": {
-                    required: {
-                        depends: function (element) {
-                            return (!isRenewal());
-                        }
-                    },
+                "contact_email": {
+                    required: true,
                     email: true
                 },
-                "address-postal": {
+                "address_postal": {
                     maxlength: 500
                 },
-                "payment-method": "required"
+                "payment_method": "required",
+                "g-recaptcha-response": "required"
 			},
 			messages: {
-				"applicant-name": "Your name is required",
-				"address-rakino": "enter your address on the island",
-				"contact-phone": "Enter a contact phone number",
-				"contact-email": {
-					required: "Please enter a valid email address",
-					minlength: "Please enter a valid email address"
-				},
-                "address-postal": {
+                "registration_type": "Please indicate what type of registration your are performing",
+				"applicant_name": "Your name is required",
+				"address_rakino": "Please enter your address on the island (Lot No. or Street Address)",
+				"contact_phone": "Please enter a contact phone number",
+				"contact_email": "Please enter a valid email address",
+                "address_postal": {
                     "maxlength": $.validator.format("Too long, must be under {0} characters")
                 },
-                "payment-method": "Choose your payment method"
+                "payment_method": "Choose your payment method",
+                "g-recaptcha-response": "Please check the box above to prove your are not a spam-bot!"
 			},
             highlight: function (element, errorClass, validClass) {
-                if (element.type === "radio") {
-                    this.findByName(element.name).addClass(errorClass).removeClass(validClass);
-                } else {
-                    $(element).closest('.form-group').removeClass('has-success has-feedback').addClass('has-error has-feedback');
-                    $(element).closest('.form-group').find('i.fa').remove();
-                    $(element).closest('.form-group').append('<i class="fa fa-exclamation fa-lg form-control-feedback"></i>');
-                }
+                $(element).closest('.form-group').removeClass('has-success has-feedback').addClass('has-error has-feedback');
+                $(element).closest('.form-group').find('i.fa').remove();
+                $(element).closest('.form-group').append('<i class="fa fa-exclamation fa-lg form-control-feedback"></i>');
             },
             unhighlight: function (element, errorClass, validClass) {
-                if (element.type === "radio") {
-                    this.findByName(element.name).removeClass(errorClass).addClass(validClass);
+                if ($(element).val()) {
+                    $(element).closest('.form-group').removeClass('has-error has-feedback').addClass('has-success has-feedback');
                 } else {
-                    if ($(element).val()) {
-                        $(element).closest('.form-group').removeClass('has-error has-feedback').addClass('has-success has-feedback');
-                    } else {
-                        $(element).closest('.form-group').removeClass('has-error has-feedback');
-                    }
-                    $(element).closest('.form-group').find('i.fa').remove();
-                    $(element).closest('.form-group').append('<i class="fa fa-check fa-lg form-control-feedback"></i>');
+                    $(element).closest('.form-group').removeClass('has-error has-feedback');
                 }
+                $(element).closest('.form-group').find('i.fa').remove();
+                $(element).closest('.form-group').append('<i class="fa fa-check fa-lg form-control-feedback"></i>');
             },
             errorPlacement: function (error, element) {
-                if (element.parents('.form-group').length) {
-                    error.insertAfter(element.parents('.form-group')[0]);
+                if (element.parents('.input-group').length) {
+                    error.insertAfter(element.parents('.input-group')[0]);
+                } else if (element.parents('.form-control').length) {
+                    error.insertAfter(element.parents('.form-control')[0]);
                 } else {
                     error.insertAfter(element);
                 }
-            },
+            }//,
 			// specifying a submitHandler prevents the default submit, good for the demo
-			submitHandler: function () {
-				alert("submitted!");
+			/*
+            submitHandler: function () {
+                
+                $("#signupform input,textarea").prop("disabled", true);
+                $("#form-inprogress").show();
+                $("#form-error").hide();
+                $("#form-success").hide();
+                
+                $.ajax(
+                    {
+                        url: "https://rranz.azurewebsites.net/api/registration",
+                        crossDomain: true,
+                        dataType: "json",
+                        contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+                        method: "POST",
+                        data: $('#signupform').serialize(),
+                        context: document.body
+                    }
+                ).done(function () {
+                    $("#form-success").show();
+                }).fail(function () {
+                    $("#form-error").show();
+                }).always(function () {
+                    $('#signupform input,textarea').removeProp('disabled');
+                    $("#form-inprogress").hide();
+                });
+
 			}
+            */
 		});
 
 	});

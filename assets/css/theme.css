@@ -34,7 +34,10 @@ body {
   width: auto;
 }
 
-
+form .error{
+    color: #a94442;
+    font-size: 0.9em;
+}
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
