@@ -70,9 +70,8 @@
                 } else {
                     error.insertAfter(element);
                 }
-            }//,
+            },
 			// specifying a submitHandler prevents the default submit, good for the demo
-			/*
             submitHandler: function () {
                 
                 $("#signupform input,textarea").prop("disabled", true);
@@ -80,27 +79,20 @@
                 $("#form-error").hide();
                 $("#form-success").hide();
                 
-                $.ajax(
-                    {
-                        url: "https://rranz.azurewebsites.net/api/registration",
-                        crossDomain: true,
-                        dataType: "json",
-                        contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
-                        method: "POST",
-                        data: $('#signupform').serialize(),
-                        context: document.body
-                    }
-                ).done(function () {
+                $.ajax({
+                    type: "POST",
+                    crossDomain: true,
+                    url: "https://rranz.azurewebsites.net/api/registration",
+                    data: $("#signupform").serialize() // serializes the form's elements.
+                }).done(function (data, textStatus, jqXHR) {
                     $("#form-success").show();
-                }).fail(function () {
+                }).fail(function (jqXHR, textStatus, errorThrown) {
                     $("#form-error").show();
-                }).always(function () {
+                }).always(function (data, textStatus, errorThrown) {
                     $('#signupform input,textarea').removeProp('disabled');
                     $("#form-inprogress").hide();
                 });
-
 			}
-            */
 		});
 
 	});
