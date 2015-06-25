@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Members
-permalink: /Members/
+permalink: /members/
 topnav: 30
 ---
 
 
 #Members
 
-If you would like to join RRA or renew your supscription please [register](/Register/).
+If you would like to join RRA or renew your supscription please [register](/register/).
 
 
 ##Newsletters

@@ -25,18 +25,36 @@
                 {% endfor %}
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-        <li class="dropdown" >
-          <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-              Transport <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu active">
-            <li><a target="_blank" href="http://www.belaire.co.nz/rakino/">Belaire Ferries <span class="glyphicon glyphicon-share-alt"></span></a></li>
-            <li><a target="_blank" href="http://www.sealink.co.nz/rakino-island">Sealink Barge <span class="glyphicon glyphicon-share-alt"></span></a></li>
-            <li><a target="_blank" href="http://aucklandseashuttles.co.nz/trips-and-services/scheduled-water-taxi-departures">Auckland Sea Shuttles <span class="glyphicon glyphicon-share-alt"></span></a></li>
-             <li><a target="_blank" href="http://www.inflitecharters.com/auckland-attractions-Inflite-experiences">Helicopter <span class="glyphicon glyphicon-share-alt"></span></a></li>
-          </ul>
-        </li>
-      </ul>
+                    <li class="dropdown" >
+                      <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                          Transport <span class="caret"></span>
+                      </a>
+                      <ul class="dropdown-menu active">
+                        <li>
+                            <a target="_blank" 
+                               href="http://www.belaire.co.nz/rakino/" 
+                               onclick="trackOutboundLink('http://www.belaire.co.nz/rakino/'); return false;">
+                                Belaire Ferries <span class="glyphicon glyphicon-share-alt"></span></a>
+                          </li>
+                        <li>
+                            <a target="_blank" 
+                               href="http://www.sealink.co.nz/rakino-island" 
+                               onclick="trackOutboundLink('http://www.sealink.co.nz/rakino-island'); return false;">
+                                Sealink Barge <span class="glyphicon glyphicon-share-alt"></span></a>
+                          </li>
+                        <li>
+                            <a target="_blank"
+                               href="http://aucklandseashuttles.co.nz/trips-and-services/scheduled-water-taxi-departures"
+                               onclick="trackOutboundLink('http://aucklandseashuttles.co.nz/trips-and-services/scheduled-water-taxi-departures'); return false;">Auckland Sea Shuttles <span class="glyphicon glyphicon-share-alt"></span></a>
+                          </li>
+                         <li>
+                             <a target="_blank" 
+                                href="http://www.inflitecharters.com/auckland-attractions-Inflite-experiences"
+                                onclick="trackOutboundLink('http://www.inflitecharters.com/auckland-attractions-Inflite-experiences'); return false;">Helicopter <span class="glyphicon glyphicon-share-alt"></span></a>
+                          </li>
+                      </ul>
+                    </li>
+                  </ul>
             </div>
           </div>
         </nav>

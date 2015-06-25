@@ -71,29 +71,29 @@
                     error.insertAfter(element);
                 }
             },
-			// specifying a submitHandler prevents the default submit, good for the demo
             submitHandler: function () {
                 
-                $("#signupform input,textarea").prop("disabled", true);
+                $("#signupform #signupsubmit").prop("disabled", true);
                 $("#form-inprogress").show();
                 $("#form-error").hide();
                 $("#form-success").hide();
-                
+
                 $.ajax({
                     type: "POST",
                     crossDomain: true,
                     url: "https://rranz.azurewebsites.net/api/registration",
-                    data: $("#signupform").serialize() // serializes the form's elements.
+                    data: $("#signupform").serialize()
                 }).done(function (data, textStatus, jqXHR) {
                     $("#form-success").show();
                 }).fail(function (jqXHR, textStatus, errorThrown) {
                     $("#form-error").show();
                 }).always(function (data, textStatus, errorThrown) {
-                    $('#signupform input,textarea').removeProp('disabled');
+                    $("#signupform #signupsubmit").removeProp("disabled");
                     $("#form-inprogress").hide();
                 });
 			}
 		});
 
+       
 	});
 }(jQuery));
