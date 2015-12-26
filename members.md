@@ -15,6 +15,9 @@ If you would like to join RRA or renew your supscription please [register](/regi
 
 Newsletters are produced quarterly and are emailed to all members. Newsletters are archived here after six months.
 
+- [June 2015 (PDF)](/assets/newsletters/RRA_Newsletter_2015_06.pdf)
+- [Easter 2015 (PDF)](/assets/newsletters/RRA_Newsletter_2015_03.pdf)
+- [Janurary 2015 (PDF)](/assets/newsletters/RRA_Newsletter_2015_01.pdf)
 - [December 2014 (PDF)](/assets/newsletters/RRA_Newsletter_2014_12.pdf)
 
 ##Hall Hire
