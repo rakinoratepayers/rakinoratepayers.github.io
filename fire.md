@@ -5,11 +5,11 @@ permalink: /fire/
 topnav: 40
 ---
 
-#Fires on Rakino
+# Fires on Rakino
 
 Fire is a major danger on Rakino. The Fire Service’s regulations  are outlined below should you want to light a fire in the Restricted Fire Season.
 
-###When is a permit needed for Rakino?
+### When is a permit needed for Rakino?
 >During a __Restricted__ Fire Season, a permit __must__ be obtained for any solid fuel fire in the open air
 
 <!-- -->
@@ -24,13 +24,13 @@ Check the [Auckland Council Fire Season](http://www.aucklandcouncil.govt.nz/rura
 
 We recommend that everyone check that their insurance includes forest and rural fires liability.
 
-###How do I obtain a new fire permit?
+### How do I obtain a new fire permit?
 An [Auckland Council Fire Permit](http://www.aucklandcouncil.govt.nz/ruralfire) can be obtained online (supporting photos of what you are wanting to burn as well as the surroundings make the permit issue much easier). If going online is difficult then you can call the Council on [09 301 0101](tel:+093010101) and they will enter your details for you.
 
-###How do I renew a previous permit?
+### How do I renew a previous permit?
 You can [renew an existing permit](http://www.aucklandcouncil.govt.nz/ruralfire) if your are wanting to have fire of the same size in the same place as you have done under a previous permit or you can call the Council on [09 301 0101](tel:+093010101) and they will enter your details for you.
 
-###How do we ensure that the burn can be done safely?
+### How do we ensure that the burn can be done safely?
 When the Rural Fire Officer issues the Fire Permit, he may specify additional conditions but here are some suggestions to consider before you start.
 
 * Feed a small fire to keep the size manageable
@@ -40,10 +40,10 @@ When the Rural Fire Officer issues the Fire Permit, he may specify additional co
 * Have a means of extinguishing the fire
 * Monitor the fire until it is completely out.
 
-###What can we burn?
+### What can we burn?
 Provided it is safe and a permit has been obtained, people are able to burn dry vegetation and untreated timber. 
 
-###What can’t be burned?
+### What can’t be burned?
 Due to the severe pollution released, the following items are not allowed to be burned:
 
 * Plastics or other synthetic products
