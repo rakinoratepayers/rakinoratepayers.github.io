@@ -20,6 +20,7 @@ Due to the vegetation types on the island and challenges for emergency services 
 Most years a “Restricted Fire Season" (Fire by permit only) will be in place from the April 1st to December 1st, however the "Restricted Fire Season" may be shortened in dryer than normal conditions. 
 
 Check the [Auckland Council Fire Season](http://www.aucklandcouncil.govt.nz/ruralfire), or call [09 301 0101](tel:+093010101). 
+
 >Note: even with a fire permit, __you are liable for fire extinguishment costs and damages__ should your fire escape or if you accidentally cause a fire.
 
 We recommend that everyone check that their insurance includes forest and rural fires liability.
