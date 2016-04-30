@@ -21,9 +21,13 @@ Newsletters are produced quarterly and are emailed to all members. Newsletters a
 - [Janurary 2015 (PDF)](/assets/newsletters/RRA_Newsletter_2015_01.pdf)
 - [December 2014 (PDF)](/assets/newsletters/RRA_Newsletter_2014_12.pdf)
 
-## Minutes from Committee Meetings
-- [Easter 2015 - Island (PDF)](/assets/minutes/RRA_Committee_Minutes_2016_03_24.pdf)
-- [Easter 2015 - City (PDF)](/assets/minutes/RRA_Committee_Minutes_2016_03_27.pdf)
+## Minutes
+
+### Minutes of RRA Committee Meetings
+- [Easter 2016 (PDF)](/assets/minutes/2016_03_24_RRA_Committee_Minutes.pdf)
+
+### Minutes of RRA Members Meetings
+- [Easter 2016 (PDF)](/assets/minutes/2016_03_27_RRA_Members_Minutes.pdf)
 
 
 ## Hall Hire
