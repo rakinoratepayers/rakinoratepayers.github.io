@@ -15,19 +15,21 @@ If you would like to join RRA or renew your supscription please [register](/regi
 
 Newsletters are produced quarterly and are emailed to all members. Newsletters are archived here after six months.
 
-- [October 2015 (PDF)](/assets/newsletters/RRA_Newsletter_2015_10.pdf)
-- [June 2015 (PDF)](/assets/newsletters/RRA_Newsletter_2015_06.pdf)
-- [Easter 2015 (PDF)](/assets/newsletters/RRA_Newsletter_2015_03.pdf)
-- [Janurary 2015 (PDF)](/assets/newsletters/RRA_Newsletter_2015_01.pdf)
-- [December 2014 (PDF)](/assets/newsletters/RRA_Newsletter_2014_12.pdf)
+- [October 2015 (pdf)](/assets/newsletters/RRA_Newsletter_2015_10.pdf)
+- [June 2015 (pdf)](/assets/newsletters/RRA_Newsletter_2015_06.pdf)
+- [Easter 2015 (pdf)](/assets/newsletters/RRA_Newsletter_2015_03.pdf)
+- [Janurary 2015 (pdf)](/assets/newsletters/RRA_Newsletter_2015_01.pdf)
+- [December 2014 (pdf)](/assets/newsletters/RRA_Newsletter_2014_12.pdf)
 
 ## Minutes
 
 ### Minutes of RRA Committee Meetings
-- [Easter 2016 (PDF)](/assets/minutes/2016_03_24_RRA_Committee_Minutes.pdf)
+- [RRA Committee Minutes 17 Feb 2016 (pdf)](/assets/minutes/160217 RRA Committee Minutes 17 Feb 2016.pdf)
+- [RRA Committee Minutes 3 March 2016 (pdf](/assets/minutes/160303 RRA Committee Minutes 3 March 2016.pdf)
+- [RRA Committee Minutes 22 March 2016 (pdf)](/assets/minutes/160322 RRA Committee Minutes 22 March 2016.pdf)
 
 ### Minutes of RRA Members Meetings
-- [Easter 2016 (PDF)](/assets/minutes/2016_03_27_RRA_Members_Minutes.pdf)
+- [RRA Members General Meeting Minutes 27 Mar 2016 (pdf)](/assets/minutes/160326 RRA Members General Meeting Minutes 27 Mar 2016.pdf)
 
 
 ## Hall Hire
