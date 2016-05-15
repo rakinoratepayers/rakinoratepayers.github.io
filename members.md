@@ -8,7 +8,7 @@ topnav: 30
 
 # Members
 
-If you would like to join RRA or renew your supscription please [register](/register/).
+If you would like to join RRA or renew your supscription please [register](/register/). There is also a [Friends of Rakino Facebook group](https://www.facebook.com/groups/1523537804574823/) that you can join to keep up on current events on the island
 
 
 ## Newsletters
@@ -27,7 +27,7 @@ Newsletters are produced quarterly and are emailed to all members. Newsletters a
 - [RRA Committee Minutes 17 Feb 2016 (pdf)](/assets/minutes/160217 RRA Committee Minutes 17 Feb 2016.pdf)
 - [RRA Committee Minutes 3 March 2016 (pdf](/assets/minutes/160303 RRA Committee Minutes 3 March 2016.pdf)
 - [RRA Committee Minutes 22 March 2016 (pdf)](/assets/minutes/160322 RRA Committee Minutes 22 March 2016.pdf)
-
+- [RRA Committee Minutes 14 April 2016 (pdf)](/assets/minutes/160414 RRA Committee Minutes 14 April 2016.pdf)
 ### Minutes of RRA Members Meetings
 - [RRA Members General Meeting Minutes 27 Mar 2016 (pdf)](/assets/minutes/160326 RRA Members General Meeting Minutes 27 Mar 2016.pdf)
 
