@@ -25,6 +25,8 @@ Newsletters are produced quarterly and are emailed to all members. Newsletters a
 
 ### Minutes of RRA Committee Meetings
 - [RRA Committee Minutes 25 August 2016 (pdf)](/assets/minutes/160825 RRA Committee Minutes 25 August 2016.pdf)
+- [RRA Committee Minutes 21 July 2016 (pdf)](/assets/minutes/160721 RRA Committee Minutes 21 July 2016.pdf)
+- [RRA Committee Minutes 09 June 2016 (pdf)](/assets/minutes/160609 RRA Committee Minutes 09 June 2016.pdf)
 - [RRA Committee Minutes 12 May 2016 (pdf)](/assets/minutes/160512 RRA Committee Minutes 12 May 2016.pdf)
 - [RRA Committee Minutes 14 April 2016 (pdf)](/assets/minutes/160414 RRA Committee Minutes 14 April 2016.pdf)
 - [RRA Committee Minutes 22 March 2016 (pdf)](/assets/minutes/160322 RRA Committee Minutes 22 March 2016.pdf)
