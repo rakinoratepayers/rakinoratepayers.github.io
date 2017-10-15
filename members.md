@@ -15,6 +15,13 @@ If you would like to join RRA or renew your supscription please [register](/regi
 
 Newsletters are produced quarterly and are emailed to all members. Newsletters are archived here after six months.
 
+- [September 2017 (pdf)](/assets/newsletters/RRA_Newsletter_2017_09.pdf)
+- [March 2017 (pdf)](/assets/newsletters/RRA_Newsletter_2017_03.pdf)
+- [December 2016 (pdf)](/assets/newsletters/RRA_Newsletter_2016_12.pdf)
+- [September 2016 (pdf)](/assets/newsletters/RRA_Newsletter_2016_09.pdf)
+- [June 2016 (pdf)](/assets/newsletters/RRA_Newsletter_2016_06.pdf)
+- [March 2016 (pdf)](/assets/newsletters/RRA_Newsletter_2016_03.pdf)
+- [December 2015 (pdf)](/assets/newsletters/RRA_Newsletter_2015_12.pdf)
 - [October 2015 (pdf)](/assets/newsletters/RRA_Newsletter_2015_10.pdf)
 - [June 2015 (pdf)](/assets/newsletters/RRA_Newsletter_2015_06.pdf)
 - [Easter 2015 (pdf)](/assets/newsletters/RRA_Newsletter_2015_03.pdf)
