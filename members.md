@@ -31,10 +31,11 @@ Newsletters are produced quarterly and are emailed to all members. Newsletters a
 ## Minutes
 
 ### Minutes of RRA Committee Meetings
-- [RRA Committee Minutes 07 Aug 2018 (pdf)](/assets/minutes/180807 RRA Committee Minutes 07 Aug 2018.pdf)
-- [RRA Committee Minutes 26 Apr 2018 (pdf)](/assets/minutes/180426 RRA Committee Minutes 26 Apr 2018.pdf)
-- [RRA Committee Minutes 21 Feburary 2018 (pdf)](/assets/minutes/180221 RRA Committee Minutes 21 Feb 2018.pdf)
-- [RRA Committee Minutes 25 Janurary 2018 (pdf)](/assets/minutes/180125 RRA Committee Minutes 25 Jan 2018.pdf)
+- [RRA Committee Minutes 19 September 2018 (pdf)](/assets/minutes/180919 RRA Committee Minutes 19 Sep 2018.pdf)
+- [RRA Committee Minutes 07 August 2018 (pdf)](/assets/minutes/180807 RRA Committee Minutes 07 Aug 2018.pdf)
+- [RRA Committee Minutes 26 April 2018 (pdf)](/assets/minutes/180426 RRA Committee Minutes 26 Apr 2018.pdf)
+- [RRA Committee Minutes 21 February 2018 (pdf)](/assets/minutes/180221 RRA Committee Minutes 21 Feb 2018.pdf)
+- [RRA Committee Minutes 25 January 2018 (pdf)](/assets/minutes/180125 RRA Committee Minutes 25 Jan 2018.pdf)
 - [RRA Committee Minutes 21 September 2017 (pdf)](/assets/minutes/170921 RRA Committee Minutes 21 Sep 2017.pdf)
 - [RRA Committee Minutes 20 July 2017 (pdf)](/assets/minutes/170720 RRA Committee Minutes 20 July 2017.pdf)
 - [RRA Committee Minutes 18 May 2017 (pdf)](/assets/minutes/170518 RRA Committee Minutes 18 May 2017.pdf)
