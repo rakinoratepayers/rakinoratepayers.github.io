@@ -31,6 +31,7 @@ Newsletters are produced quarterly and are emailed to all members. Newsletters a
 ## Minutes
 
 ### Minutes of RRA Committee Meetings
+- [RRA Easter Meeting Minutes 6 April 2021 (pdf)](/assets/minutes/210406 RRA Easter Meeting Minutes 6 April 2021.pdf)
 - [RRA Committee Minutes 18 March 2021 (pdf)](/assets/minutes/210318 RRA Committee Minutes 18 March 2021.pdf)
 - [RRA Committee Minutes 25 October 2020 (pdf)](/assets/minutes/201025 RRA Committee Minutes 25 October 2020.pdf)
 - [RRA Committee Minutes 27 Feburary 2019 (pdf)](/assets/minutes/190227 RRA Committee Minutes 27 Feb 2019.pdf)
