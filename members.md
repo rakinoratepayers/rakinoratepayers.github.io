@@ -68,6 +68,7 @@ Newsletters are produced quarterly and are emailed to all members. Newsletters a
 
 
 ### Minutes of RRA Members Meetings
+- [RRA Members General Meeting Minutes 09 Apr 2023](/assets/minutes/230409 RRA Meeting Minutes 9 April 2023.pdf)
 - [RRA Members Annual General Meeting Minutes 23 October 2022 (pdf)](/assets/minutes/221023 RRA AGM Committee Minutes 23 Oct 2022.pdf)
 - [RRA Members Annual General Meeting Minutes 22 October 2018 (pdf)](/assets/minutes/181022 RRA Annual General Meeting Minutes 22 Oct 2018.pdf)
 - [RRA Members General Meeting Minutes 01 Apr 2018 (pdf)](/assets/minutes/180401 RRA General Meeting Minutes Easter 01 Apr 2018.pdf)
